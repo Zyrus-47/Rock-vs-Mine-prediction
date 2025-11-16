@@ -1,4 +1,4 @@
-Rock vs Mine Prediction using Logistic Regression
+**Rock vs Mine Prediction using Logistic Regression**
 
 This project focuses on building a Logistic Regression model to classify sonar signals as either Rock or Mine. The dataset contains 60 frequency-based features representing the energy returned by sonar pulses. By analyzing these patterns, the model learns to distinguish natural rocks from metal mines placed underwater.
 
